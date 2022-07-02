@@ -1,8 +1,8 @@
-# data-analysis-steam-games
+# Steam Games Data Analysis
 
 ## Dataset Info
 
-Dataset was acquired from steam using web scraping technique. The git repo can be access from [here](https://github.com/triesonyk/web-scraping-steam-games). The dataset was scrapped on 07 April 2022.
+Dataset was acquired from steam using web scraping technique. The git repo can be access from [here](https://github.com/triesonyk/web-scraping-steam-games). The dataset was scrapped on 07 April 2022. You can also read the article that I made on [Medium](https://medium.com/@triesonyk/the-evolution-of-the-gaming-industry-and-insights-from-the-steam-dataset-1b29235f8f17)
 
 ## Dataset Feature Definition
 
