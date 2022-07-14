@@ -45,4 +45,4 @@ I made an article on [Medium](https://medium.com/@triesonyk/data-preprocessing-o
 
 ## Insights
 
-The insight can be seen in [Medium](https://medium.com/@triesonyk/the-evolution-of-the-gaming-industry-and-insights-from-the-steam-dataset-1b29235f8f17)
+For easier and more enjoyable reading I posted an article about the insight on [Medium](https://medium.com/@triesonyk/the-evolution-of-the-gaming-industry-and-insights-from-the-steam-dataset-1b29235f8f17).
