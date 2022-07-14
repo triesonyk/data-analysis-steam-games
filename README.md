@@ -28,6 +28,7 @@ Dataset was acquired from steam using web scraping technique. The git repo can b
 - `metacricts` = rating  by metacriticts
 
 ## Data Preprocessing for EDA
+I made an article on [Medium](https://medium.com/@triesonyk/data-preprocessing-of-steam-dataset-8522524a7c72) about the data preprocessing, but here are the main things I did to the raw data:
 
 - All the data that I scraped was still in wrong dtype. So, the first thing I did was fix all the data type
 - Drop duplicates
@@ -42,4 +43,6 @@ Dataset was acquired from steam using web scraping technique. The git repo can b
 - Turn `tags`, `developer`, and `publisher` into list
 - Export new dataset into csv file
 
-## EDA and Insight (Ongoing)
+## Insights
+
+The insight can be seen in [Medium](https://medium.com/@triesonyk/the-evolution-of-the-gaming-industry-and-insights-from-the-steam-dataset-1b29235f8f17)
